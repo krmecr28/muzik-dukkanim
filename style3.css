@@ -1,0 +1,26 @@
+body {
+    color: white;
+    background-color: black;
+}
+
+header {
+    color: red;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+}
+
+section h2 {
+    color: purple;
+    text-align: center;
+}
+
+section #ilk-p {
+    text-align: center;
+}
+
+section h3 {
+    color: red;
+}

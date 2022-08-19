@@ -1,0 +1,42 @@
+/* Ana Sayfa Başlangıç */
+body {
+    background-color: black;
+    text-align: center;
+}
+
+header {
+    color: red;
+}
+
+section h2 {
+    color: purple;
+}
+
+section p {
+    color: white;
+}
+
+
+ul {
+    color: yellow;
+    background: red;
+    border-radius: 3px;
+    padding: 0;
+    margin: 30px auto;
+    text-align: center;
+}
+ 
+ul li {
+    color: white;
+    font-size: 18px;
+    line-height: 50px;
+    font-family: Calibri;
+    cursor: pointer;
+    padding: 0 15px;
+}
+ 
+ul li:hover {
+    background: #e3e3e3;
+    color: black;
+}
+/* Ana Sayfa Bitiş */
